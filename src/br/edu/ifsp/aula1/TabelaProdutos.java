@@ -1,5 +1,4 @@
-package br.edu.ifsp;
-import java.math.BigDecimal;
+package br.edu.ifsp.aula1;
 import java.util.Scanner;
 
 public class TabelaProdutos {

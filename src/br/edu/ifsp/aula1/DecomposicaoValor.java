@@ -1,4 +1,4 @@
-package br.edu.ifsp;
+package br.edu.ifsp.aula1;
 import java.util.Scanner;
 
 public class DecomposicaoValor {
