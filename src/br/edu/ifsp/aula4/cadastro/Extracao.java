@@ -1,4 +1,4 @@
-package br.edu.ifsp.aula4;
+package br.edu.ifsp.aula4.cadastro;
 // Tome o programa de notas do encontro 4 e divida-o em pelo menos quatro métodos, deixando o main com menos de quinze linhas.
 
 import java.util.Scanner;

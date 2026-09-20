@@ -1,4 +1,4 @@
-package br.edu.ifsp.aula4;
+package br.edu.ifsp.aula4.cadastro.util;
 // Escreva lerNotaValida(Scanner), que repete a leitura até obter um valor entre 0 e 10 e devolve a nota válida.
 
 import java.util.Scanner;

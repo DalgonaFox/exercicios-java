@@ -1,4 +1,4 @@
-package br.edu.ifsp.aula4;
+package br.edu.ifsp.aula4.cadastro;
 // Crie três versões de media — para dois, três e quatro valores — e verifique qual é chamada em cada caso.
 
 import java.util.Scanner;

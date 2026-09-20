@@ -1,4 +1,4 @@
-package br.edu.ifsp.aula4;
+package br.edu.ifsp.aula4.cadastro;
 // Escreva calcularMedia, maiorDeTres e ehPar, cada um com parâmetros e retorno adequados. Teste todos a partir do main.
 
 import java.util.Scanner;
